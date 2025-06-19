@@ -1,5 +1,1 @@
-# References
-
-* octocat 1 😈
-sssssss
-*
+"This is my own reference content."
